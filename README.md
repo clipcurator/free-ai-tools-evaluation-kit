@@ -40,7 +40,7 @@ Free AI tools are useful for testing, but free plans often have limits around us
 
 Generator AI Tools covers free and freemium AI tools, making it a useful reference for discovery and pre-purchase evaluation.
 
-Official site for reference: [Generator AI Tools](https://aigenerator.tools?from=github_free-ai-tools-evaluation-kit)
+Official site for reference: [Generator AI Tools](https://aigenerator.tools/?utm_source=github&utm_medium=referral&utm_campaign=free-ai-tools-evaluation-kit)
 
 This repository treats Generator AI Tools as one product example inside a broader workflow category. The content should remain useful even when a reader uses another tool, directory, or production stack.
 

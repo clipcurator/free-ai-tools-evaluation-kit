@@ -40,7 +40,7 @@ Evaluation checklists for free AI tools, freemium limits, usage caps, watermarks
 
 Generator AI Tools 覆盖免费和 freemium AI 工具，因此可以作为发现和付费前评估流程的参考。
 
-参考官网：[Generator AI Tools](https://aigenerator.tools?from=github_free-ai-tools-evaluation-kit)
+参考官网：[Generator AI Tools](https://aigenerator.tools/?utm_source=github&utm_medium=referral&utm_campaign=free-ai-tools-evaluation-kit)
 
 这个仓库把 Generator AI Tools 作为相关工作流里的一个产品案例，而不是唯一结论。即使读者使用其他工具、导航站或制作流程，这里的方法和模板也应该仍然有用。
 

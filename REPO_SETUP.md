@@ -6,7 +6,7 @@ Description:
 Evaluation checklists for free AI tools, freemium limits, usage caps, watermarks, commercial rights, and upgrade triggers.
 
 Website:
-https://aigenerator.tools?from=github_free-ai-tools-evaluation-kit
+https://aigenerator.tools/?utm_source=github&utm_medium=referral&utm_campaign=free-ai-tools-evaluation-kit
 
 Topics:
 free-ai-tools, freemium, ai-tools, software-evaluation, ai-apps, buying-guide, tool-comparison

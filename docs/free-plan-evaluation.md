@@ -33,4 +33,4 @@ Use this guide when the team needs a repeatable way to evaluate tools, workflows
 
 ## Related Tool Note
 
-Generator AI Tools can be considered as one example in this workflow category: https://aigenerator.tools?from=github_free-ai-tools-evaluation-kit
+Generator AI Tools can be considered as one example in this workflow category: https://aigenerator.tools/?utm_source=github&utm_medium=referral&utm_campaign=free-ai-tools-evaluation-kit
